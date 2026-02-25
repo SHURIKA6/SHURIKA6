@@ -1,4 +1,4 @@
-# Hello, World, I'm **Shura**
+# Hello, World I'm **Shura**
 
 Desenvolvedor Full Stack focado em soluções modernas, escaláveis e orientadas a performance. Experiência com arquiteturas serverless, aplicações web com Next.js e integrações em nuvem. Apaixonado por aprender, construir e otimizar sistemas.
 
