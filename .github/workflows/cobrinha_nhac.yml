@@ -1,5 +1,8 @@
 name: Generate Datas
-
+permissions:
+  contents: write
+on:
+  schedule:
 on:
   schedule: # execute every 1 hour
     - cron: "* */1 * * *"
